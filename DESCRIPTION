@@ -1,0 +1,15 @@
+Package: MDBr
+Type: Package
+Title: 'Material Design' for 'Bootstrap'
+Version: 0.1.0
+Authors@R: c(
+  person("David", "Granjon", email = "dgranjon@ymail.com", role = c("aut", "cre")))
+Maintainer: David Granjon <dgranjon@ymail.com>
+Description: 400+ Basic Components, Enhanced Bootstrap Modals and 8 Basic Plugins.
+    See more at <https://mdbootstrap.com/getting-started/>.
+Imports: shiny, htmltools
+URL: https://github.com/DivadNojnarg/MDBr
+BugReports: https://github.com/DivadNojnarg/MDBr/issues
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
